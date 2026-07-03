@@ -659,7 +659,7 @@ HERO
 
 .hero-logo img{
 
-    width:1020px;
+    width:540px;
     max-width:100%;
     height:auto;
 
@@ -2367,9 +2367,9 @@ RESPONSIVE
 
     .hero-logo{
 
-        width:320px;
+        width:540px;
 
-        height:320px;
+        height:540px;
 
     }
 
