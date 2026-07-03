@@ -659,7 +659,7 @@ HERO
 
 .hero-logo img{
 
-    width:540px;
+    width:920px;
     max-width:100%;
     height:auto;
 
@@ -2208,7 +2208,7 @@ FLOATING ACM LOGOS
 
     position:absolute;
 
-    width:80px;
+    width:180px;
 
     opacity:.06;
 
@@ -2367,17 +2367,17 @@ RESPONSIVE
 
     .hero-logo{
 
-        width:180px;
+        width:540px;
 
-        height:180px;
+        height:540px;
 
     }
 
     .logo-circle{
 
-        width:180px;
+        width:360px;
 
-        height:180px;
+        height:360px;
 
     }
 
