@@ -275,9 +275,9 @@ LOADER
 
     position:relative;
 
-    width:160px;
+    width:360px;
 
-    height:160px;
+    height:360px;
 
     display:flex;
 
@@ -289,7 +289,7 @@ LOADER
 
 .loader-logo img{
 
-    width:75px;
+    width:180px;
 
     z-index:3;
 
@@ -659,7 +659,7 @@ HERO
 
 .hero-logo img{
 
-    width:420px;
+    width:920px;
     max-width:100%;
     height:auto;
 
